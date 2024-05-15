@@ -1,7 +1,7 @@
 import logging
 
-from .utubebot import UtubeBot
-from .config import Config
+from ..utubebot import UtubeBot
+from ..config import Config
 
 
 if __name__ == "__main__":
